@@ -1,5 +1,10 @@
 # Telegram_sgk_bot
 各处搜集的社工库机器人，随时更新。
+
+007社工库https://t.me/sgk007_bot?start=59418949661jalq1 
+
+M16社工库 https://t.me/MI6SGK_bot?start=9K2mvTyn5s
+
 ABOT社工库  https://t.me/SGK_ABOT?start=594189496611s3uf 
  
 ChatGPT社工库机器人 https://t.me/ChatGPTSGKbot?start=z8nasDfUY6 
@@ -20,4 +25,4 @@ loseprivacy(支持APIKEY，免费的形式为签到送点券）  https://losepri
 
 TGSGK(这个需要充值，300块起充，约合一块钱左右一积分，BTC/ETC充值）https://t.me/SGKmainNEWbot?start=IVT1622A1F36 
 
-007社工库https://t.me/sgk007_bot?start=59418949661jalq1 
+
