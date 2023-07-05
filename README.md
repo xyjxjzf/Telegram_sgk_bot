@@ -6,8 +6,9 @@ https://t.me/XingDunBot?start=cRVkcq3
 
 OnlySGK:http://t.me/OnlySGK_bot?start=l7g8jg1yn
 
-china公安政务系统:
-https://t.me/chinasgk001_bot?start=invite5941894966
+china公安政务系统:https://t.me/chinasgk001_bot?start=invite5941894966
+
+AISGK:http://t.me/aishegongkubot?start=AISGK_B9LHG58B
 
 -----------------------------------------------------------------------
 
