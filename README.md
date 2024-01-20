@@ -19,7 +19,7 @@ helloworld https://t.me/sgk2023_03_30bot?start=SGK_VG95C3U9
 
 星盾社工库机器人：https://t.me/XingDun2Bot?start=cRVkcq3
 
-               https://t.me/XingDunBot?start=3vAKrXm
+
 
 007工具机器人 https://t.me/sgk007_bot?start=NTk0MTg5NDk2Ng
 
